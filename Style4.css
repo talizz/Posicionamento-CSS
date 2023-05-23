@@ -1,0 +1,107 @@
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 105px;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 210px;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    top: 105px;
+    left: 0px;
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    top: 105px;
+    left: 105px;
+}
+
+.box6 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    top: 210px;
+    left: 0px;
+}
+
+.box7 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.box8 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+    right: 105px;
+}
+
+.box9 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+    right: 210px;
+}
+
+.box10 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    bottom: 105px;
+    right: 0px;
+}
+
+.box11 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    bottom: 105px;
+    right: 105px;
+}
+
+.box12 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    bottom: 210px;
+    right: 0px;
+}
